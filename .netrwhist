@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/Users/vipin/Desktop/vagrant_tutorial/provision'
-let g:netrw_dirhist_2='/Developer/NVIDIA/CUDA-7.5/include'
-let g:netrw_dirhist_3='/Users/vipin/Learning/web_development/bootstrap/bootstrap-3.0.3/examples/starter-template'
-let g:netrw_dirhist_4='/Users/vipin/PersonalProjects/muzzycoder_github/ncsu_website/css'
-let g:netrw_dirhist_5='/Users/vipin/Learning/dic/project/ga-yarn'
-let g:netrw_dirhist_6='/Users/vipin/Learning/dic/project/ga-yarn/hadoop_installation/hadoop-2.7.1/share/hadoop/hdfs/templates'
-let g:netrw_dirhist_7='/Users/vipin/PersonalProjects/bigdata/yarn/simple-yarn-app/.git'
