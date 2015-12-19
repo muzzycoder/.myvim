@@ -7,6 +7,7 @@ set tabstop=4
 set expandtab
 set shiftwidth=4
 set softtabstop=4
+set laststatus=2
 
 nmap <F7> :NERDTreeToggle<CR>
 nmap <F8> :TagbarToggle<CR>
