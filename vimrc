@@ -1,7 +1,9 @@
 execute pathogen#infect()
 set nu
-syntax enable
-filetype plugin indent on
+syntax on 
+filetype plugin on
+filetype indent on
+set smartindent
 set ruler
 set tabstop=4
 set expandtab
@@ -9,6 +11,8 @@ set shiftwidth=4
 set softtabstop=4
 set laststatus=2
 set scrolloff=4
+
+au BufNewFile,BufRead *.gradle setf groovy
 
 nmap <F7> :NERDTreeToggle<CR>
 nmap <F8> :TagbarToggle<CR>
