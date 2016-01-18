@@ -1,8 +1,7 @@
 execute pathogen#infect()
 set nu
 syntax on 
-filetype plugin on
-filetype indent on
+filetype plugin indent on
 set smartindent
 set ruler
 set tabstop=4
